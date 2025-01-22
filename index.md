@@ -8,4 +8,6 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Adding code to markdown file 
+``` python
 print("Hello! " + input("What is your name?"))
+```
