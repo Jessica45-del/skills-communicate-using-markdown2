@@ -6,3 +6,6 @@
 ## Adding an image to markdown
 ### This is an image of the Yaktocat.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Adding code to markdown file 
+print("Hello! " + input("What is your name?"))
